@@ -1,4 +1,4 @@
-### Hi there 👋
+### 不可否认的事实：我的代码多为ChatGPT所写，且写得相当糟糕
 
 <!--
 **Star-xxxxx/star-xxxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
